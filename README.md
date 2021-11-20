@@ -7,8 +7,8 @@ Oriented for people willing to learn hand simulation with customizable ML soluti
 
 # How to use
 
-1. Download and open in Unity 2020.2.4f1 or above.
-2. Tap the play button in the Editor or build and run.
+Download and open in Unity 2020.2.4f1 or above.
+
 
 
 
