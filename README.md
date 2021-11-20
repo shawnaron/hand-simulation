@@ -4,7 +4,7 @@ Oriented for people willing to learn hand simulation with customizable ML soluti
 
 # Demo
 
-[Face Mesh] (https://github.com/shawnaron/hand-simulation/blob/master/Demo-Video/Hand-Tracking-Video.mp4)
+https://github.com/shawnaron/hand-simulation/blob/master/Demo-Video/Hand-Tracking-Video.mp4
 
 
 # How to use
