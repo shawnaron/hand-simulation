@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae6693a97b5069a43a8e325a80b09ebb, type: 3}
+  m_Name: RequiredJoints
+  m_EditorClassIdentifier: 
+  zeroPointPosition: {x: 0, y: 0, z: 0}
+  fourPointPosition: {x: 0, y: 0, z: 0}
+  eightPointPosition: {x: 0, y: 0, z: 0}
+  ninePointPosition: {x: 0, y: 0, z: 0}
+  twelvePointPosition: {x: 0, y: 0, z: 0}
+  sixteenPointPosition: {x: 0, y: 0, z: 0}
+  twentyPointPosition: {x: 0, y: 0, z: 0}
+  multiplierInFollow: 50
