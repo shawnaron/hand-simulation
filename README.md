@@ -2,8 +2,6 @@
 
 Oriented for people willing to learn hand simulation with customizable ML solutions (hand tracking), forward and inverse kinematics.
 
-# Demo
-![Hand Tracking Demo Video](https://github.com/shawnaron/hand-simulation/blob/master/Demo-Video/Hand-Tracking-Demo-1.gif)
 
 
 # How to use
@@ -12,6 +10,10 @@ Download and open in Unity 2020.2.4f1 or above.
 
 
 
+# Demo
+![Hand Tracking Demo Video 1](https://github.com/shawnaron/hand-simulation/blob/master/Demo-Video/Hand-Tracking-Demo-1.gif)
+![Hand Tracking Demo Video 2](https://github.com/shawnaron/hand-simulation/blob/master/Demo-Video/Hand-Tracking-Demo-2.gif)
+![Hand Tracking Demo Video 3](https://github.com/shawnaron/hand-simulation/blob/master/Demo-Video/Hand-Tracking-Demo-3.gif)
 
 
 ## Acknowledgment/Credit
