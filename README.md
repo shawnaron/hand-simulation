@@ -4,7 +4,7 @@ Oriented for people willing to learn hand simulation with customizable ML soluti
 
 # Demo
 
-https://github.com/shawnaron/hand-simulation/blob/master/Demo-Video/Hand-Tracking-Demo-1.mp4
+https://github.com/shawnaron/hand-simulation/blob/master/Demo-Video/Hand-Tracking-Demo-1.gif
 
 
 # How to use
