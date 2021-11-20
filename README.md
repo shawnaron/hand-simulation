@@ -2,7 +2,9 @@
 
 Oriented for people willing to learn hand simulation with customizable ML solutions (hand tracking), forward and inverse kinematics.
 
+# Demo
 
+[Face Mesh] (https://github.com/shawnaron/hand-simulation/blob/master/Demo-Video/Hand-Tracking-Video.mp4)
 
 
 # How to use
