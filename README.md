@@ -15,9 +15,9 @@ Download and open in Unity 2020.2.4f1 or above.
 
 ## Acknowledgment/Credit
 
-Hand Tracking: Google-Mediapipe
-Forward and inverse kinematics: Eleftherios Triantafyllidis
-Hand Model: 2017 Oculus VR, LLC
+1. Hand Tracking: Google-Mediapipe
+2. Forward and inverse kinematics: Eleftherios Triantafyllidis
+3. Hand Model: 2017 Oculus VR, LLC
 
 
 
